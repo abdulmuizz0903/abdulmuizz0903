@@ -3,11 +3,11 @@
 ### A Deep Learning enthusiast.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulmuizz0903&theme=tokyonight" alt="abdulmuizz0903" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulmuizz0903&theme=tokyonight" alt="abdulmuizz0903" /></a> </p> -->
 
-- 🔭 I'm currently working on **building my skills.**
+- 🔭 I'm currently working on **Machine Translation**
 
-- 🌱 I'm currently learning **different NN architectures, agentic AI, etc.**
+- 🌱 I'm currently learning **fine tuning LLMs efficiently**
 
 - 🤝 I'm looking for help with **frontend development.**
 
